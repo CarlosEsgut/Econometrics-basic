@@ -1,2 +1,0 @@
-Econometrics-basic/examenes/eps
-
